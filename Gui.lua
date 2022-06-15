@@ -10,7 +10,7 @@ local Teams = game:GetService("Teams")
 
 -- // Initialising the UI
 local UI = Venyx.new({
-    title = "Venyx"
+    title = "RU - Made By Terebi#0001"
 })
 
 -- // Themes
